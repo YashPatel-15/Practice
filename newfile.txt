@@ -1,8 +1,5 @@
 This is a File created to check git Push Command
-
-Example for a pull request 
-
-New Lines added 
-
-
-also new lines added 
+ 
+New Line 
+New Line 
+New Line 
